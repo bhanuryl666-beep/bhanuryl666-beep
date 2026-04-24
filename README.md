@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/27069854/README.1.md)
-<div align="center"><img width="1024" height="1536" alt="DD2E5273-64D1-4BC4-A437-FF80B39D3578" src="https://github.com/user-attachments/assets/4b92bac3-8ec7-4595-a828-b634939905e4" />
+<div align="center"><img width="795" height="1026" alt="DD2E5273-64D1-4BC4-A437-FF80B39D3578" src="https://github.com/user-attachments/assets/db1b87ad-4ef8-49a8-a166-8e2dc43ada2a" />
 
 
 <!-- Animated Header -->
@@ -106,7 +106,7 @@ status     : Open to Opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuryl666-beep)
+[![LinkedIn]https://www.linkedin.com/in/banu-prakash-chari-6bb29633b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcHgD4c1sQHSDIr9xCgcY4Q%3D%3D
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhanuryl666-beep)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
