@@ -1,6 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/27070275/README.1.md)
-<div align="center"><img width="795" height="1026" alt="DD2E5273-64D1-4BC4-A437-FF80B39D3578" src="https://github.com/user-attachments/assets/8888b302-285d-4842-a151-a07bdd6ee3f2" />
-
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=bhanuryl666-beep&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
